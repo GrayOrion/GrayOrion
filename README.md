@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love Java too
+##I love Java too
 
 [![Gray's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayOrion&hide=stars,prs,contribs,issues&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
